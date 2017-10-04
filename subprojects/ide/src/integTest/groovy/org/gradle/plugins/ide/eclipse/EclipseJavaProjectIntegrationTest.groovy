@@ -42,6 +42,6 @@ class EclipseJavaProjectIntegrationTest extends AbstractEclipseIntegrationSpec {
         '1.6'   | 'JavaSE-1.6'
         '1.7'   | 'JavaSE-1.7'
         '1.8'   | 'JavaSE-1.8'
-        '1.9'   | 'JavaSE-1.9'
+        '1.9'   | 'JavaSE-9'
     }
 }
